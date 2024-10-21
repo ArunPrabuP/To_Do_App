@@ -15,7 +15,7 @@ A simple spring boot based REST API that can CRUD's data for accounts for custom
     - saves data to a in-memory list
 2. react based front-end that sends data back and forth
     - keep all logic in the one app.js file
-    - don't worry about writing unit tests for rect based UI
+    - don't worry about writing unit tests for react based UI
 3. postman tests to validate the Spring Boot API
     - ensure postman tests are checked in the source code
 
